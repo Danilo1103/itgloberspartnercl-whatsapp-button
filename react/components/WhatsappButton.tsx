@@ -1,6 +1,7 @@
 import React from 'react';
 import PropTypes from "prop-types";
 import { useCssHandles } from 'vtex.css-handles';
+import "../css/styles.css"
 
 const CSS_HANDLES = [
     "containerOne__buttonWhatsapp",
